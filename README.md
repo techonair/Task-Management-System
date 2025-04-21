@@ -2,6 +2,10 @@
 
 A FastAPI-based application to manage tasks with PostgreSQL, SQLAlchemy, and Alembic.
 
+## Architecture Doc
+
+📄PDF File: Architecture-Design-Task-Management-System.pdf
+
 ## Features
 
 - Create, update, delete, and list tasks
@@ -61,7 +65,5 @@ DATABASE_URL = "postgresql://DUMMY-USERNAME:DUMMY-PASSWORD@localhost:5432/task_d
 
 📁 Folder: Postman-Collection/Task-Manager-API.postman_collection.json
 
-## Architecture Doc
 
-📄PDF File: Architecture-Design-Task-Management-System.pdf
 
