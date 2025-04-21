@@ -4,7 +4,7 @@ A FastAPI-based application to manage tasks with PostgreSQL, SQLAlchemy, and Ale
 
 ## Architecture Doc
 
-📄PDF File: Architecture-Design-Task-Management-System.pdf
+📄PDF File: [Architecture-Design-Task-Management-System.pdf](https://github.com/techonair/Task-Management-System/blob/TMS-bhanuzxz-architecture/Architecture-Design-Task-Management-System.pdf)
 
 ## Features
 
@@ -63,7 +63,7 @@ DATABASE_URL = "postgresql://DUMMY-USERNAME:DUMMY-PASSWORD@localhost:5432/task_d
 
 ## Postman Collection
 
-📁 Folder: Postman-Collection/Task-Manager-API.postman_collection.json
+📁 Folder: [Postman-Collection/Task-Manager-API.postman_collection.json](https://github.com/techonair/Task-Management-System/blob/main/Postman-Collection/Task-Manager-API.postman_collection.json)
 
 
 
