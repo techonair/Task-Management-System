@@ -55,8 +55,13 @@ DATABASE_URL = "postgresql://DUMMY-USERNAME:DUMMY-PASSWORD@localhost:5432/task_d
 
 ## API Docs
 
-Visit [http://localhost:8000/docs](http://localhost:8000/docs)
+🔗 Visit [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## Postman Collection
 
-Postman-Collection/Task-Manager-API.postman_collection.json
+📁 Folder: Postman-Collection/Task-Manager-API.postman_collection.json
+
+## Architecture Doc
+
+📄PDF File: Architecture-Design-Task-Management-System.pdf
+
